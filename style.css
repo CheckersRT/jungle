@@ -1,0 +1,19 @@
+
+* {
+    margin: 10;
+    padding: 10;
+}
+
+html,
+body {
+    overflow: hidden;
+    margin: 0;
+    margin-left: 0;
+}
+
+.webgl {
+    position: fixed;
+    top: 10;
+    left: 10;
+    outline: none;
+}
